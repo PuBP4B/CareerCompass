@@ -1,10 +1,4 @@
 {
   "/page": "app/page.js",
-  "/login/page": "app/login/page.js",
-  "/dashboard/page": "app/dashboard/page.js",
-  "/tests/page": "app/tests/page.js",
-  "/quiz/page": "app/quiz/page.js",
-  "/recommendation/page": "app/recommendation/page.js",
-  "/learning-path/page": "app/learning-path/page.js",
-  "/courses/page": "app/courses/page.js"
+  "/login/page": "app/login/page.js"
 }

@@ -1,4 +1,4 @@
-// File: C:\Users\pubpa\Downloads\CareerCompass_fullstack_starter\frontend\app\layout.jsx
+// File: C:\Users\pubpa\OneDrive\Desktop\Workspace\CareerCompass_fullstack_starter\frontend\app\layout.jsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
